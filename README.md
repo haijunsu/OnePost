@@ -33,4 +33,5 @@ git merge upstream/master
 Rember password
 ==============
 git config --global credential.helper store
-
+<br/>
+Source: http://wiki.epfl.ch/help-git-en/can-i-store-my-password-for-the-command-line
