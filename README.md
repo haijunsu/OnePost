@@ -30,4 +30,7 @@ git checkout master
 <br/>
 git merge upstream/master
 
+Rember password
+==============
+git config --global credential.helper store
 
