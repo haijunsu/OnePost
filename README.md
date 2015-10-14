@@ -65,7 +65,7 @@ Delete the branch on github :
 $ git push origin :[name_of_your_new_branch]
 </pre>
 
-Rember password
+Remember password
 ==============
 git config --global credential.helper store
 <br/>
